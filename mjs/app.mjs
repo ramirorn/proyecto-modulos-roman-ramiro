@@ -6,5 +6,5 @@ console.log(restar(5, 3));
 
 
 // Importaciones de funciones por defecto
-import funciones from "./funcionesPorDefecto.mjs";
-console.log(funciones.multiplicar(5, 3));
+import hola from "./funcionesPorDefecto.mjs";
+console.log(hola(5, 3));
